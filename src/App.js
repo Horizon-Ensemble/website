@@ -1,7 +1,6 @@
 import './App.css';
 import HorizonLogo from "./images/logo.png";
 import { Outlet, Link } from "react-router-dom";
-import Home from './routes/home';
 
 function App() {
   return (
