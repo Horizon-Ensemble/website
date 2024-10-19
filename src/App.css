@@ -34,6 +34,12 @@
   color: white;
 }
 
+.page-header {
+  background-color: #00336F;
+  color: white;
+  padding: 1rem 0;
+}
+
 body {
   background-color: #C8E6F7;
   min-height: 50vh;
@@ -89,6 +95,17 @@ h1 {
   align-items: center;
   justify-content: space-evenly;
   color: black;
+}
+
+.big-image {
+  width: 50vw;
+  height: 20vw;
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+  margin: 10px;
 }
 
 .youtube {
