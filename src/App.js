@@ -3,7 +3,6 @@ import HorizonLogo from "./images/logo.png";
 import InstagramIcon from "./images/InstagramIcon.png";
 import FacebookIcon from "./images/FacebookIcon.png";
 import YoutubeIcon from "./images/YoutubeIcon.png";
-import StayInTouch from "./components/StayInTouch";
 import { Outlet, Link } from "react-router-dom";
 import CardToCulture from './components/CardToCulture';
 
@@ -29,7 +28,6 @@ function App() {
         </nav>
       </header>
       <Outlet/>
-      <StayInTouch/>
       <CardToCulture/>
       <footer>
         <div>

@@ -1,6 +1,7 @@
 import logo from "../images/logo.png";
 import CallForScoresArtists from "../images/CallForScoresArtists.jpg";
 import HenselOvertureExcerpt from "../images/HenselOvertureExcerpt.png";
+import StayInTouch from "../components/StayInTouch";
 
 export default function About() {
   return (
@@ -28,6 +29,7 @@ export default function About() {
         <p style={{fontSize: "21px"}}>We draw from the rich repertoire of the past to color our performances. Through historical and musical research, we present a wide variety of pieces from history. This includes a lot of music by women and by composers of color, whose music we are committed to featuring as part of our concert programs!</p>
       </div>
       </body>
+      <StayInTouch/>
   </div>
   );
 }

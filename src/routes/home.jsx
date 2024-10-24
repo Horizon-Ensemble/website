@@ -1,5 +1,6 @@
 import Carousel from '../components/Carousel.js';
 import ConcertTeaser from "../images/ConcertTeaser.png";
+import StayInTouch from "../components/StayInTouch";
 
 export default function Home() {
   return (
@@ -46,6 +47,7 @@ export default function Home() {
               </div>
         </div>
       </body>
+      <StayInTouch/>
     </div>
   );
 }
