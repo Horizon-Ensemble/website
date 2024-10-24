@@ -1,4 +1,4 @@
-import logo from "../images/logo.png";
+import HorizonEnsemble2 from "../images/HorizonEnsemble2.jpg";
 import CallForScoresArtists from "../images/CallForScoresArtists.jpg";
 
 export default function CallForScores() {
@@ -8,7 +8,7 @@ export default function CallForScores() {
         <h2>Horizon Ensemble 2024 Call for Scores!</h2>
     </main>
     <div style={{backgroundColor: "white"}}>
-      <img className="big-image" src={logo}/>
+      <img className="ensemble-picture" src={HorizonEnsemble2}/>
     </div>
     <p style={{fontSize: "21px", margin: "10vh"}}>
        <h3 style={{fontWeight: "bolder"}}>Calling all composers!</h3>
@@ -53,8 +53,10 @@ Submissions should be 8 to 15 minutes long.
           Applications will be open from <strong>October 23, 2024</strong> to <strong>December 1, 2024.</strong>
           <br/>If you have any questions, please contact us at horizonensembleboston@gmail.com.
           <br/>Thank you for considering becoming one of Horizon Ensemble’s composer friends!</p>
-        <a href='JULIAN PUT YOUR GOOGLE FORM HERE'><h3><strong><u>Ready to submit?</u></strong></h3></a>
-        <button type="button" class="btn btn-primary btn-lg navy-button"><strong>I'm ready!</strong></button>
+          <h3><strong><u>Ready to submit?</u></strong></h3>
+        <a href='JULIAN PUT YOUR GOOGLE FORM HERE'>
+          <button type="button" class="btn btn-primary btn-lg navy-button"><strong>I'm ready!</strong></button>
+        </a>
       </body>
   </div>
   );
