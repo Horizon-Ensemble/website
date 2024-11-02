@@ -18,9 +18,13 @@ export default function Home() {
           <h3><strong><u>Horizon Ensemble: Shades of Autumn</u><br/>
           Sunday, November 16 at 3:00 PM</strong></h3>
           <p>
-            Come enjoy some musical expressions of the human desire for freedom. Catch the world premieres of two pieces by friends: Andrés Ballesteros’s <strong>Shaheed</strong> (Martyr) and Sepehr Pirasteh’s <strong>Laleh-zar</strong> (Tulip Field). 
-            Enjoy the <strong>Symphony in C</strong> by Marianna Martines, the first known symphony by a woman. We’ll finish with Johannes Brahms’s monumental <strong>Symphony No. 3 in F major</strong>, based on his personal motto: “Free but happy”! 
-            Learn more <a href="www.eventbrite.com/e/shades-of-autumn-tickets-1050785847757">here.</a>
+            Come celebrate this crisp, cozy season with the Horizon Ensemble.
+            We'll start with <strong>Autumn Music</strong> for wind quintet by <strong>Jennifer Higdon</strong> and 
+            <strong>Three Moods in New England</strong> by our friend <strong>Hayley Qin</strong>. <strong>Igor Stravinsky's</strong> lively 
+            <strong>Dumbarton Oaks</strong> concerto shines, full of rhythmic energy. 
+            Finally, we'll perform the rare <strong>Symphony No. 10: "To Autumntime"</strong> by the German composer <strong>Joachim Raff</strong>.
+             
+            Learn more <a href="www.eventbrite.com/e/shades-of-autumn-tickets-1050785847757">here!</a>
           </p>
           </div>
       </body>
