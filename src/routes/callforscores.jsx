@@ -22,12 +22,12 @@ export default function CallForScores() {
           <h3><strong>An orchestral piece...</strong></h3>
           <p style={{fontSize: "21px"}}>Our spring concert, <strong>Massachusetts Voices,</strong> will feature one orchestral piece by you alongside music by Ben Nacar, Amy Beach, and Leonard Bernstein! One piece will be selected for a live performance by the Horizon Ensemble on April 6, 2024 in Boston, Massachusetts.
 Submissions should be 8 to 15 minutes long.
-<br/><br/>Click <a href='JULIAN PUT ALLOWED ORCH INSTRUMENTATION LIST HERE'>here</a> for a list of allowed instruments.</p>
+<br/><br/>Click <a href='https://docs.google.com/document/d/1PI7aqDsT-bYS3FgdPEc8Vq_1Gc3cnvrftE8Yd34U3uI/edit?usp=sharing'>here</a> for a list of allowed instruments.</p>
         </div>
         <div style={{margin: '10vh'}}>
           <h3><strong>...and some chamber music!</strong></h3>
           <p style={{fontSize: "21px"}}>As part of our mission to support young composers, the Horizon Ensemble is organizing a <strong>recording project.</strong> Three chamber pieces will be selected for a professional-level studio recording to be made in late springtime, conducted by our music director Julian Gau. Submissions should be 8 to 12 minutes long.
-<br/><br/>Click <a href='JULIAN PUT ALLOWED CHAMBER INSTRUMENTATION LIST HERE'>here</a> for a list of allowed instruments.</p>
+<br/><br/>Click <a href='https://docs.google.com/document/d/1PI7aqDsT-bYS3FgdPEc8Vq_1Gc3cnvrftE8Yd34U3uI/edit?usp=sharing'>here</a> for a list of allowed instruments.</p>
         </div>
     </body>
     <body className="outreach" style={{backgroundColor: "#C8E6F7"}}>
@@ -50,11 +50,11 @@ Submissions should be 8 to 15 minutes long.
       </body>
       <body className="outreach" style={{flexDirection: "column"}}>
         <p style={{fontSize: "21px", textAlign: "left"}}>
-          Applications will be open from <strong>October 23, 2024</strong> to <strong>December 1, 2024.</strong>
+          Applications will be open from <strong>November 4, 2024</strong> to <strong>December 9, 2024.</strong>
           <br/>If you have any questions, please contact us at horizonensembleboston@gmail.com.
           <br/>Thank you for considering becoming one of Horizon Ensemble’s composer friends!</p>
           <h3><strong><u>Ready to submit?</u></strong></h3>
-        <a href='JULIAN PUT YOUR GOOGLE FORM HERE'>
+        <a href='https://forms.gle/FvNpPPM5GkCGHT116'>
           <button type="button" class="btn btn-primary btn-lg navy-button"><strong>I'm ready!</strong></button>
         </a>
       </body>
