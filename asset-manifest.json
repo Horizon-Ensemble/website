@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.f7bebcb4.css",
-    "main.js": "/static/js/main.4212a638.js",
+    "main.js": "/static/js/main.64111b6a.js",
     "static/js/453.fee0ea03.chunk.js": "/static/js/453.fee0ea03.chunk.js",
-    "static/media/ConcertTeaser.png": "/static/media/ConcertTeaser.89144c88f6c7434af8df.png",
     "static/media/CallForScoresArtists.jpg": "/static/media/CallForScoresArtists.9641d98fd9e22e8d95b7.jpg",
     "static/media/HenselOvertureExcerpt.png": "/static/media/HenselOvertureExcerpt.ac9c906b50751ebeabcc.png",
+    "static/media/ConcertTeaser.png": "/static/media/ConcertTeaser.0895b5b59d07509adf03.png",
     "static/media/HorizonPondEnsemble.jpg": "/static/media/HorizonPondEnsemble.cccd5e49cefd1ce5451f.jpg",
     "static/media/HorizonEnsemble3.jpg": "/static/media/HorizonEnsemble3.67c11083d10883927dd3.jpg",
     "static/media/HorizonEnsemble1.jpg": "/static/media/HorizonEnsemble1.0ced51ab3c8370cff2a5.jpg",
@@ -17,11 +17,11 @@
     "static/media/FacebookIcon.png": "/static/media/FacebookIcon.36f0aa33e0e13e0a702e.png",
     "index.html": "/index.html",
     "main.f7bebcb4.css.map": "/static/css/main.f7bebcb4.css.map",
-    "main.4212a638.js.map": "/static/js/main.4212a638.js.map",
+    "main.64111b6a.js.map": "/static/js/main.64111b6a.js.map",
     "453.fee0ea03.chunk.js.map": "/static/js/453.fee0ea03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7bebcb4.css",
-    "static/js/main.4212a638.js"
+    "static/js/main.64111b6a.js"
   ]
 }
