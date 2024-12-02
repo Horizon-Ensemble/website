@@ -1,27 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.f7bebcb4.css",
-    "main.js": "/static/js/main.80bdab53.js",
+    "main.js": "/static/js/main.35d574a1.js",
     "static/js/453.fee0ea03.chunk.js": "/static/js/453.fee0ea03.chunk.js",
     "static/media/CallForScoresArtists.jpg": "/static/media/CallForScoresArtists.9641d98fd9e22e8d95b7.jpg",
     "static/media/HenselOvertureExcerpt.png": "/static/media/HenselOvertureExcerpt.ac9c906b50751ebeabcc.png",
     "static/media/ConcertTeaser.png": "/static/media/ConcertTeaser.0895b5b59d07509adf03.png",
+    "static/media/HorizonAutumn.jpg": "/static/media/HorizonAutumn.59da7fe1e4269c4d0da5.jpg",
+    "static/media/JulianJackFelix.jpg": "/static/media/JulianJackFelix.1e72b54bb34001c8b001.jpg",
     "static/media/HorizonPondEnsemble.jpg": "/static/media/HorizonPondEnsemble.cccd5e49cefd1ce5451f.jpg",
     "static/media/HorizonEnsemble3.jpg": "/static/media/HorizonEnsemble3.67c11083d10883927dd3.jpg",
     "static/media/HorizonEnsemble1.jpg": "/static/media/HorizonEnsemble1.0ced51ab3c8370cff2a5.jpg",
     "static/media/HorizonEnsemble2.jpg": "/static/media/HorizonEnsemble2.8c0bca2c81a9835c4a88.jpg",
+    "static/media/VenmoQRCode.png": "/static/media/VenmoQRCode.5edd1a9a505b3925bd05.png",
     "static/media/logo.png": "/static/media/logo.cdd4ad470d73a2885f52.png",
     "static/media/WPALogo.png": "/static/media/WPALogo.2322ee217bfb98766ca4.png",
     "static/media/InstagramIcon.png": "/static/media/InstagramIcon.7770220bada0e6454b97.png",
     "static/media/BCCLogo.jpg": "/static/media/BCCLogo.0e5ae48a81b99c4d2aba.jpg",
     "static/media/FacebookIcon.png": "/static/media/FacebookIcon.36f0aa33e0e13e0a702e.png",
+    "static/media/ZelleQRCode.png": "/static/media/ZelleQRCode.fd7f3937865b806b1835.png",
     "index.html": "/index.html",
     "main.f7bebcb4.css.map": "/static/css/main.f7bebcb4.css.map",
-    "main.80bdab53.js.map": "/static/js/main.80bdab53.js.map",
+    "main.35d574a1.js.map": "/static/js/main.35d574a1.js.map",
     "453.fee0ea03.chunk.js.map": "/static/js/453.fee0ea03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7bebcb4.css",
-    "static/js/main.80bdab53.js"
+    "static/js/main.35d574a1.js"
   ]
 }
